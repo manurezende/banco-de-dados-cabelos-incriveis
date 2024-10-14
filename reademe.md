@@ -5,6 +5,10 @@
 
 ### O salão de cabeleireiro "Cabelos Incríveis" está enfrentando dificuldades para gerenciar eficientemente seus clientes, agendamentos, estoque de produtos e informações dos funcionários. Eles precisam de um sistema de banco de dados para ajudar a organizar e automatizar esses processos.
 
+## Modelo Conceitual do estudo de caso
+
+<img src="mapa1.png" width=500 height=250>
+<img src="mapa2.png" width=500 height=250>
 
 ## Modelo Lógico com as normalizações
 
